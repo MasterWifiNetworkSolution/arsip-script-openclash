@@ -1,0 +1,24 @@
+# Clash adalah aplikasi semua platform, namun beberapa fitur yang akan menjadi platform eksklusif atau platform tidak tersedia
+
+Wiki ini selesai. Dan berdasarkan Clash v1.10.0, opsi lama mungkin tidak tersedia.
+
+Fitur baru Mode TUN: cara lain untuk menangani semua lalu lintas di Windows, macOS/Linux/OpenWRT.
+
+
+Penyedia Aturan: cara yang fleksibel dan dapat dikontrol menggunakan aturan.
+
+
+Skrip: penggunaan khusus bentrokan
+
+
+Gunakan Script pada mode Aturan
+
+
+
+# Peningkatan
+
+TProxy dengan UDP: proxy transparan sekarang mendukung UDP dan menyediakan pita NAT A.
+
+otomatis tambahkan server dns dari server DHCP
+
+Dot Wildcard: dengan cepat mencocokkan multi level sekaligus.
